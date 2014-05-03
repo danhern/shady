@@ -1,11 +1,13 @@
+<?php if (!defined('PUBLIC_DIR')) die('direct script access not allowed'); ?>
 <!DOCTYPE html>
 <html class="no-js">
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>Shady Meat Market</title>
-<meta name="description" content="The Shady Meat Market, est. 2014, produces the highest quality meat products on the north side of Shady Cliff street.">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+<script type="text/javascript" src="/assets/js/vendor/modernizr/modernizr.js"></script>
 </head>
 <body>
 <!--[if lt IE 8]>
@@ -15,6 +17,3 @@
 </p>
 <![endif]-->
 <div id="wrapper" class="wrapper">
-</div><!-- #wrapper -->
-</body>
-</html>
