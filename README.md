@@ -12,12 +12,16 @@ This is a fictional web design project for instructional purposes only
     * Used for README.md files and some documentation
 * [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
     * Starting point and best practices for basic HTML markup
-* [Twitter Bootstrap](http://getbootstrap.com/)
-    * Front-end development toolkit
-    * JavaScript plugins depend on jQuery
 * [jQuery](http://jquery.com/)
     * Widely-used JavaScript library
     * Specializes in easy cross-browser DOM manipulation and AJAX
+* [Compass](http://compass-style.org/)
+    * [Installation](http://compass-style.org/install/)
+    * Framework for [Sass](http://sass-lang.com/)
+* [Twitter Bootstrap](http://getbootstrap.com/)
+    * Front-end development toolkit
+    * JavaScript plugins depend on jQuery
+    * We will use the Sass version
 * [PHP](http://www.phptherightway.com/)
     * Back-end will be written in PHP
     * Specific framework and implementation to follow
